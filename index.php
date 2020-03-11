@@ -6,7 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <div>アヤラモール</div>
+    <div>ThisIsHiroOkada
+    </div>
     <div></div>
     <div></div>
     
