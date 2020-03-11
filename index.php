@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <div></div>
+    <div>アヤラモール</div>
     <div></div>
     <div></div>
     
